@@ -12,5 +12,7 @@ And so, the algorithm for this whole problem is counting number of times the ope
 And their subtraction provides the floor at which Santa would finally reach.
 
 Count of '(' : 3537
+
 Count of ')' : 3463
+
 Subtraction : 3537 - 3463 = 74th floor!
